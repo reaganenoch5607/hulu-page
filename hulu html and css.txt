@@ -1,0 +1,5 @@
+- this is a replica of hulu
+- this project only uses two technologies 
+   1. html
+   2. css
+- any suggestions are highly welcomed
